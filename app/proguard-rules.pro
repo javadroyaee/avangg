@@ -1,0 +1,2 @@
+-keep class ir.jrweb.avangvpn.** { *; }
+-keep class libv2ray.** { *; }

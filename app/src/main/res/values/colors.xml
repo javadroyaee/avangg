@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_navy_purple">#1E1B38</color>
+    <color name="card_pastel_purple">#2C274D</color>
+    <color name="accent_pastel_purple">#7B68EE</color>
+    <color name="accent_pastel_orange">#FF9F68</color>
+    <color name="pastel_white">#F8F7FC</color>
+    <color name="text_muted">#B8B4D4</color>
+    <color name="ping_green">#6EE7B7</color>
+    <color name="timeline_track">#3E3868</color>
+</resources>

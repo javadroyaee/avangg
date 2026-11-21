@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.AvangVPN" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_pastel_purple</item>
+        <item name="colorSecondary">@color/accent_pastel_orange</item>
+        <item name="android:statusBarColor">@color/bg_navy_purple</item>
+        <item name="android:navigationBarColor">@color/bg_navy_purple</item>
+        <item name="android:windowBackground">@color/bg_navy_purple</item>
+    </style>
+</resources>
